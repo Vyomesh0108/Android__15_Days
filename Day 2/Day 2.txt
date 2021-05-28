@@ -1,0 +1,26 @@
+On Day-2 we learn about :-
+1. How to create project in android studio.
+2. How to set AVD Manager.
+3. What is used & purpose of this files & folders:-
+	* Files :-				* Folders :-
+	-> MainActivity.java			-> mainfests
+	-> activity_main.xml			-> java
+	-> colors.xml				-> res (drawable, layout, mipmap, values)
+	-> strings.xml				
+	-> style.xml
+	-> themes.xml
+
+4. What is Gradle Scripts?
+5. How to design our App with code & by Basic UI controls.
+6. We learn about View & Viewgroup.
+7. We learn about UI Controls & it's properties :-
+	-> TextView
+	-> Layout Height & Width
+	-> About dp, dip, sp & px
+	-> EditText
+	-> Button Control
+	-> CheckBox
+	-> Radio-Button
+	
+	
+	
